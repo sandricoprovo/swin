@@ -1,0 +1,16 @@
+{
+    "name": "swin",
+    "version": "1.0.0",
+    "description": "Swin is an app where you can find encouragement to complete your goals from start to finish.",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "react",
+        "typescript",
+        "node",
+        "express"
+    ],
+    "author": "Sandrico Provo",
+    "license": "ISC"
+}
