@@ -1,0 +1,6 @@
+{
+    "extends": ["sandricoprovo/typescript"],
+    "rules": {
+        "@typescript-eslint/indent": "off"
+    }
+}
